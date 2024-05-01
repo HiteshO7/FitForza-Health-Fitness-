@@ -4,10 +4,6 @@
 
 -----
 ### Version 1 : 
-Project: Health & Fitness website with complete authentication made using React.js
-Original-Design: [HERE!](https://www.behance.net/gallery/78953297/Health-Fitness-Mobile-App-UI-UX-Kit?tracking_source=search_projects%7Chealth+fitness)
-
-Health & Fitness-Website version 1 hosted [HERE!](https://healthfitness1reactapp.netlify.app/)
 
 **Progress:**
 
